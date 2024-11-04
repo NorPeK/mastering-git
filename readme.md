@@ -1,4 +1,3 @@
-## YOYOYO welcome weoclom
 ## WELCOME TO GIT!
 
 THIS IS COMing from div adrian
